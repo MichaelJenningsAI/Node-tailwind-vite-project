@@ -20,7 +20,7 @@ function Contact() {
                         focus:outline-none"
                     />
                     <input 
-                        type="text"
+                        type="email"
                         name="email"
                         placeholder="Email"
                         className="my-2 p-2 bg-transparent 
@@ -36,7 +36,7 @@ function Contact() {
                         focus:outline-none"
                     />
                     <button
-                        type="button"
+                        type="submit"
                         className="text-center inline-block
                         px-8 py-3 w-max text-base font-medium 
                         rounded-md text-white 
