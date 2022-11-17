@@ -8,8 +8,8 @@ function Intro() {
             <h1 className="text-4xl md:text-7xl dark:text-white
             mb-1 md:mb-3 font-bold">Michael Jennings</h1>
             <p className="text-base md:text-xl mb-3
-            font-medium">Software Engineer & Data Architect</p>
-            <p className="text-sm max-w-xl mb-6 font-bold">Tis is my bio etc etc</p>
+            font-medium">Software Engineer, Data Analyst, Aircraft Maintenance Engineer</p>
+            <p className="text-sm max-w-xl mb-6 font-bold">To be a description of my life...</p>
         </div>
     )
 }

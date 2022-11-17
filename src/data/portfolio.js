@@ -1,18 +1,18 @@
 export default [
     {
-        title: 'Project 1',
+        title: 'Python Stuff',
         imgUrl: '',
         stack: ['HTML', 'CSS', 'JavaScript'],
         link: 'https://youtube.com/mjai'
     },
     {
-        title: 'Project 2',
+        title: 'Java Stuff',
         imgUrl: '',
         stack: ['Python', 'CSS', 'JavaScript'],
         link: 'https://youtube.com/mjai'
     },
     {
-        title: 'Project 3',
+        title: 'Web Stuff',
         imgUrl: '',
         stack: ['test', 'CSS', 'JavaScript'],
         link: 'https://youtube.com/mjai'

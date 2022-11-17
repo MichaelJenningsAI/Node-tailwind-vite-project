@@ -1,26 +1,14 @@
 export default [
     {
         year: 'Today',
-        title: 'YouTube Content',
-        duration: 'Yearss',
+        title: 'Boeing',
+        duration: '2 Years',
         details: 'bla bla bla'
     },
     {
-        year: 'Yestday',
-        title: 'YouTube Content',
-        duration: 'Yearss',
-        details: 'bla bla bla'
-    },
-    {
-        year: 'Today',
-        title: 'YouTube Content',
-        duration: 'Yearss',
-        details: 'bla bla bla'
-    },
-    {
-        year: 'Today',
-        title: 'YouTube Content',
-        duration: 'Yearss',
+        year: 'Yesterday',
+        title: 'Army',
+        duration: '9 Years',
         details: 'bla bla bla'
     },
 ]
