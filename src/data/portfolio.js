@@ -17,10 +17,4 @@ export default [
         stack: ['test', 'CSS', 'JavaScript'],
         link: 'https://youtube.com/mjai'
     },
-    {
-        title: 'Ana',
-        imgUrl: '',
-        stack: ['test', 'CSS', 'JavaScript'],
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ'
-    },
 ]
