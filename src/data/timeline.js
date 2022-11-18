@@ -11,4 +11,10 @@ export default [
         duration: '9 Years',
         details: 'bla bla bla'
     },
+    {
+        year: 'Yesterday',
+        title: 'Ana',
+        duration: '9 Years',
+        details: 'bla bla bla'
+    },
 ]
